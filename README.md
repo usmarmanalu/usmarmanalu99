@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="/">LinkedIn</a>
+- <a href="">dmds.dev</a>
+- usmarmnl99@gmail.com
+- <a href="">Twitter</a>
 
