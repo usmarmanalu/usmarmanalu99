@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### Tech Stack
-  <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+  <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" /></a>
+  <a href="https://dart.dev/"><img align="left" alt="Dart" title="Dart" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" /></a>
   <br>
   <br>
   
@@ -32,8 +29,8 @@ Here are some ideas to get you started:
 </p>
 
 ### Reach me on
-- <a href="/">LinkedIn</a>
+- <a href="">LinkedIn</a>
 - <a href="">dmds.dev</a>
 - usmarmnl99@gmail.com
-- <a href="">Twitter</a>
+- <a href="https://twitter.com/Usmarmnl99Usmar">Twitter</a>
 
