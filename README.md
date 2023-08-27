@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 
 ### Tech Stack
   <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" /></a>
-  <a href="https://dart.dev/"><img align="left" alt="Dart" title="Dart" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" /></a>
-  <br>
+  <a href="https://dart.dev/"><img align="left" alt="Dart" title="Dart" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" /></a>
+  <a href="https://firebase.google.com/"><img align="left" alt="Firebase" title="Firebase" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" /></a>
+  <a href="https://netacad.com/"><img align="left" alt="Cisco Paket Tracer" title="Cisco Paket Tracer" width="80px" src="https://www.freepnglogos.com/uploads/cisco-png-logo/new-cisco-logo-png-1.png"/></a>
+  
   <br>
   
 ### Github Statistic
