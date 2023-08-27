@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <br>
   
 ### Github Statistic
+
 <p align="left">
 <a href="https://github.com/usmarmanalu">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=usmarmanalu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -31,8 +32,12 @@ Here are some ideas to get you started:
 </p>
 
 ### Reach me on
-- <a href="">LinkedIn</a>
-- <a href="">dmds.dev</a>
-- usmarmnl99@gmail.com
-- <a href="https://twitter.com/Usmarmnl99Usmar">Twitter</a>
+<a href=""><img align="left" alt="Instagram" title="Instagram" width="40px" background="none" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" /></a>
+
+<a href="mailto:usmarmnl99@gmail.com?subject=Subjek%20Pesan&body=Isi%20Pesan%20Anda"><img align="left" alt="Firebase" title="Firebase" width="40px" src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" /></a>
+
+<a href="https://twitter.com/Usmarmnl99Usmar"><img align="left" alt="Twitter" title="Twitter" width="40px" src="https://img.icons8.com/?size=512&id=13963&format=png" /></a>
+
+<a href="https://instagram.com/usmarmnl9699"><img align="left" alt="Instagram" title="Instagram" width="40px" background="none" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" /></a>
+
 
