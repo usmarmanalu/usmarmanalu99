@@ -40,7 +40,7 @@ Here are some of my activities and those I have participated in:
 </p>
 
 ### Reach me on
-<a href=""><img align="left" alt="Instagram" title="Instagram" width="40px" background="none" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" /></a>
+<a href="https://www.linkedin.com/in/usmar-manalu-44b8711b1/"><img align="left" alt="LinkedIn" title="LinkedIn" width="40px" background="none" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" /></a>
 
 <a href="mailto:usmarmnl99@gmail.com?subject=Subjek%20Pesan&body=Isi%20Pesan%20Anda"><img align="left" alt="Firebase" title="Firebase" width="40px" src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" /></a>
 
