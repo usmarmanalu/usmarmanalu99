@@ -17,14 +17,13 @@ Here are some of my activities and those I have participated in:
 ### Tech Stack
   <a href="https://developer.android.com"><img align="left" alt="Android" title="Android" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" /></a>
   <a href="https://kotlinlang.org"><img align="left" alt="Kotlin" title="Kotlin" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" /></a>
-  <a href="https://flutter.dev"><img align="left" alt="Flutter" title="Flutter" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" /></a>
+  <a href="https://flutter.dev"><img align="left" alt="Flutter" title="Flutter" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" /></a><br><br>
   <a href="https://dart.dev"><img align="left" alt="Dart" title="Dart" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" /></a>
-  <a href="https://firebase.google.com"><img align="left" alt="Firebase" title="Firebase" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" /></a> <br><br>
-  
-  <a href="https://en.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML5" title="HTML5" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
+  <a href="https://firebase.google.com"><img align="left" alt="Firebase" title="Firebase" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML5" title="HTML5" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a> <br><br>
   <a href="https://en.wikipedia.org/wiki/CSS"><img align="left" alt="CSS" title="CSS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /></a>
   <a href="https://getbootstrap.com"><img align="left" alt="Bootstrap" title="Bootsrap" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" /></a>
-  <a href="https://git-scm.com"><img align="left" alt="Git" title="Git" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" /></a>
+  <a href="https://git-scm.com"><img align="left" alt="Git" title="Git" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" /></a> <br><br>
   <a href="https://netacad.com"><img align="left" alt="Cisco Paket Tracer" title="Cisco Paket Tracer" width="80px" src="https://www.freepnglogos.com/uploads/cisco-png-logo/new-cisco-logo-png-1.png"/></a> <br><br>
 
   
