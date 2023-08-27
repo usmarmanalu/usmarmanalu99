@@ -25,7 +25,8 @@ Here are some of my activities and those I have participated in:
   <a href="https://en.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML5" title="HTML5" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a> 
   <a href="https://en.wikipedia.org/wiki/CSS"><img align="left" alt="CSS" title="CSS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /></a>
   <a href="https://getbootstrap.com"><img align="left" alt="Bootstrap" title="Bootsrap" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" /></a><br><br>
-  
+
+  <br>
   <a href="https://git-scm.com"><img align="left" alt="Git" title="Git" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" /></a>
   <a href="https://netacad.com"><img align="left" alt="Cisco Paket Tracer" title="Cisco Paket Tracer" width="80px" src="https://www.freepnglogos.com/uploads/cisco-png-logo/new-cisco-logo-png-1.png"/></a><br><br>
 
